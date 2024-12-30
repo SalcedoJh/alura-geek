@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Stormtrooper",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/lkxsWVmJ12YHJBMRsyeu6xS8Rd5vVvYKGUn2Z3ysCYflwPfnA.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Game Boy Classic",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/wRHiSyGmtTodEVR37ZMd7ygmxyb9BIhgb0eGeQwUjW2mwPfnA.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Stormtrooper",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/lkxsWVmJ12YHJBMRsyeu6xS8Rd5vVvYKGUn2Z3ysCYflwPfnA.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Game Boy Classic",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/wRHiSyGmtTodEVR37ZMd7ygmxyb9BIhgb0eGeQwUjW2mwPfnA.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Stormtrooper",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/lkxsWVmJ12YHJBMRsyeu6xS8Rd5vVvYKGUn2Z3ysCYflwPfnA.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Game Boy Classic",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/wRHiSyGmtTodEVR37ZMd7ygmxyb9BIhgb0eGeQwUjW2mwPfnA.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Stormtrooper",
+      "price": 60,
+      "image": "https://storage.googleapis.com/a1aa/image/lkxsWVmJ12YHJBMRsyeu6xS8Rd5vVvYKGUn2Z3ysCYflwPfnA.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Game Boy Classic",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/wRHiSyGmtTodEVR37ZMd7ygmxyb9BIhgb0eGeQwUjW2mwPfnA.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Stormtrooper",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/lkxsWVmJ12YHJBMRsyeu6xS8Rd5vVvYKGUn2Z3ysCYflwPfnA.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Game Boy Classic",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/wRHiSyGmtTodEVR37ZMd7ygmxyb9BIhgb0eGeQwUjW2mwPfnA.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Stormtrooper",
+      "price": "60.00",
+      "image": "https://storage.googleapis.com/a1aa/image/lkxsWVmJ12YHJBMRsyeu6xS8Rd5vVvYKGUn2Z3ysCYflwPfnA.jpg"
+    },
+    {
+      "id": "8316",
+      "name": "Game boy",
+      "price": "70.00",
+      "image": "https://storage.googleapis.com/a1aa/image/wRHiSyGmtTodEVR37ZMd7ygmxyb9BIhgb0eGeQwUjW2mwPfnA.jpg"
+    }
+  ]
+}
